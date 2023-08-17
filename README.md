@@ -15,6 +15,7 @@ We use the state of the art eg3d generative model (GAN) to create synthetic face
 Refer to the following repository for more information:
 https://github.com/NVlabs/eg3d
 Use the above model to create image strips at desired pose intervals and store in a local directory.
+A sample of image strips used in this test is available in test_known folder above.
 Clone this repository and change the path of the generated faces in 
 main.py to reflect the path to your generated faces directory. 
 After making the changes, run the main.py file to generate the results.
