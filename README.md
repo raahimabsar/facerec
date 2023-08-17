@@ -8,7 +8,8 @@ we aim to assess the model's capability to accurately distinguish between simila
 The primary goal of this project is to benchmark the face recognition model's accuracy by utilizing synthetic face images. 
 These synthetic images are designed to mimic real-world scenarios where facial poses and expressions can vary significantly. 
 The model's output, which is a metric known as "face distance," indicates the dissimilarity between pairs of compared images. 
-A higher face distance suggests a greater dissimilarity between the images, highlighting the model's ability to discern fine-grained facial feature variations.
+A higher face distance suggests a greater dissimilarity between the images, suggesting that it becomes harder for the model
+to accurately predict the same person with a different pose.
 
 # Methodology and Steps 
 We use the state of the art eg3d generative model (GAN) to create synthetic faces at variables poses.
