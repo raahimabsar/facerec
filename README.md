@@ -13,8 +13,10 @@ A higher face distance suggests a greater dissimilarity between the images, high
 # Methodology and Steps 
 We use the state of the art eg3d generative model (GAN) to create synthetic faces at variables poses.
 Refer to the following repository for more information:
+
 https://github.com/NVlabs/eg3d
-Use the above model to create image strips at desired pose intervals and store in a local directory.
+
+Use the above model to generate image strips at desired pose intervals and store in a local directory.
 A sample of image strips used in this test is available in test_known folder above.
 
 ![seed0019](https://github.com/raahimabsar/facerec/assets/93063004/554cd8c6-9335-4a41-ae13-bc55576c2fc8)
