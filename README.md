@@ -16,6 +16,7 @@ Refer to the following repository for more information:
 https://github.com/NVlabs/eg3d
 Use the above model to create image strips at desired pose intervals and store in a local directory.
 A sample of image strips used in this test is available in test_known folder above.
+
 ![seed0019](https://github.com/raahimabsar/facerec/assets/93063004/554cd8c6-9335-4a41-ae13-bc55576c2fc8)
 
 Clone this repository and change the path of the generated faces in 
@@ -24,7 +25,12 @@ After making the changes, run the main.py file to generate the results.
 
 # Results
 The script should generate a graph that compares Face distance to Pose Difference.
-Refer to the sample output in Graph2.png. This result was obtained by running the script 
+Refer to the sample output in Graph2.png:
+
+![Graph2](https://github.com/raahimabsar/facerec/assets/93063004/3275bfa2-cc7e-46c0-8b42-359824868460)
+
+
+This result was obtained by running the script 
 on 150 different synthetic face image strips with a consecutive 0.2 pose difference. 
 
 
