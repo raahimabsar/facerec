@@ -9,8 +9,9 @@ import numpy as np
 os.environ["CUDA_VISIBLE_DEVICES"] = "0,1"
 # assign the folder name to a variable
 
+# TODO: change the path
 KNOWN_FACES_DIR = '../eg3d/eg3d/test_known'
-#KNOWN_FACES_DIR = 'test_known'
+
 
 print('Loading known faces...')
 
