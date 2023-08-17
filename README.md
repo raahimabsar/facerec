@@ -16,6 +16,8 @@ Refer to the following repository for more information:
 https://github.com/NVlabs/eg3d
 Use the above model to create image strips at desired pose intervals and store in a local directory.
 A sample of image strips used in this test is available in test_known folder above.
+![seed0019](https://github.com/raahimabsar/facerec/assets/93063004/554cd8c6-9335-4a41-ae13-bc55576c2fc8)
+
 Clone this repository and change the path of the generated faces in 
 main.py to reflect the path to your generated faces directory. 
 After making the changes, run the main.py file to generate the results.
