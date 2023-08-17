@@ -34,6 +34,6 @@ Refer to the sample output in Graph2.png:
 
 
 This result was obtained by running the script 
-on 150 different synthetic face image strips with a consecutive 0.2 pose difference. 
+on 150 different synthetic face image strips with a consecutive 0.4 pose difference. 
 
 
