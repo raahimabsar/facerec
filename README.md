@@ -30,7 +30,7 @@ After making the changes, run the main.py file to generate the results.
 The script should generate a graph that compares Face distance to Pose Difference.
 Refer to the sample output in Graph2.png:
 
-![Graph2](https://github.com/raahimabsar/facerec/assets/93063004/3275bfa2-cc7e-46c0-8b42-359824868460)
+![Graph2](Graph2.png)
 
 
 This result was obtained by running the script 
